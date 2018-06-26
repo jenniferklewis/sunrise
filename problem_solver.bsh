@@ -1,0 +1,7 @@
+#!/bin/bash
+
+--where am i
+echo Current_directory=`pwd`
+
+--find bash scripts
+find . *.bsh

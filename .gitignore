@@ -1,0 +1,3 @@
+--file lists files you do not want to check in to git 
+--example data files for your application
+*.dat
