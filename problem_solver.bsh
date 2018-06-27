@@ -15,3 +15,7 @@ do
 		echo $FILE " is not executable"
 	fi
 done
+
+## I need to find where /bin/bash equivalent is
+
+## add new function A
